@@ -1,0 +1,40 @@
+.corMenu a{
+    color: rgb(2, 173, 252);
+    background-color: rgb(0, 0, 0);
+}
+
+p{
+    color: aqua;
+    background-color: rgb(0, 0, 0);
+}
+
+.imgCamarao img{
+    height: 300px;
+    width: 320px;
+}
+
+.imgLula img{
+    height: 300px;
+    width: 350px;
+}
+
+.imgSalmao img{
+    height: 300px;
+    width: 320px;
+}
+.imgCaranguejo img{
+    height: 300px;
+    width: 360px;
+}
+.imgLagosta img{
+    height: 300px;
+    width: 360px;
+}
+h2{
+    margin-left: 500px;
+}
+.margem tr th{
+    padding-left: 100px;
+}
+
+
