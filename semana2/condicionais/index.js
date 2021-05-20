@@ -100,7 +100,11 @@
 
     c) Agora veja se essa idade do usuário corresponde à idade mínima que permite dirigir. Se sim, imprima no console `"Você pode dirigir"`, caso contrário, imprima `"Você não pode dirigir."`
 */
+
 /*
+
+
+
     const podeDirigir = () => {
         
         const qualSuaIdade = Number(prompt("Qual a sua idade senhor ou senhora ?"))
@@ -113,7 +117,9 @@
     }
 
     podeDirigir()
+
     */
+
 // --- EXERCÍCIO 5 ------------------------------------------------------------------
 
 
@@ -128,3 +134,4 @@ if(segundaCondicao) {
 } else {
   console.log("Entrou no else"
 }
+
